@@ -163,7 +163,7 @@
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   }
   
-  .btn::after {
+  /*.btn::after {
     content: '';
     position: absolute;
     top: 50%;
@@ -179,7 +179,7 @@
   
   .btn:hover::after {
     transform: translate(-50%, -50%) scale(1);
-  }
+  }*/
   
   .primary-btn {
     background-color: var(--white);
